@@ -1,4 +1,4 @@
-package com.akash.SpringBootRestVersionTwo;
+package com.akash.SpringBootRestVersionTwo.controller;
 
 import com.akash.SpringBootRestVersionTwo.model.JobPost;
 import com.akash.SpringBootRestVersionTwo.service.JobService;
